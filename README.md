@@ -19,14 +19,12 @@
 
 <img src="https://github.com/pollywaik/cg_note/blob/master/demo/rotate_neo.png" width="150"/><br/>
 
-* 各向异性弹性体
-
-  - 立方体块拉伸，各向同性与各向异性对比
+* 各向异性弹性体1-立方体块拉伸，各向同性与各向异性对比
   
  <img src="https://github.com/pollywaik/cg_note/blob/master/demo/stress_linear.png" width="150"/><br/>
  <img src="https://github.com/pollywaik/cg_note/blob/master/demo/stress_linear_ani.png" width="150"/><br/>
 
-  - 弹性体掉落到四面体上，各向同性与各向异性对比
+* 各向异性弹性体2-弹性体掉落到四面体上，各向同性与各向异性对比
   
 <img src="https://github.com/pollywaik/cg_note/blob/master/demo/tetrahedron.png" height="300"/><br/><img src="https://github.com/pollywaik/cg_note/blob/master/demo/tetrahedron_ani.png" height="300"/><br/>
 

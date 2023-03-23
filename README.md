@@ -18,7 +18,7 @@
 
 * Neo-hookean模型扭转
 
-<img src="https://github.com/pollywaik/cg_note/blob/master/demo/rotate_neo.png" height="150"/><br/>
+<img src="https://github.com/pollywaik/cg_note/blob/master/demo/rotate_neo.png" width="150"/><br/>
 
 * 各向异性弹性体
 立方体块拉伸，各向同性与各向异性对比

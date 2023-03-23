@@ -24,14 +24,14 @@
 
   - 立方体块拉伸，各向同性与各向异性对比
   
-<figure class="half">
+<figure>
   <img src="https://github.com/pollywaik/cg_note/blob/master/demo/stress_linear.png" width="150"/><br/>
   <img src="https://github.com/pollywaik/cg_note/blob/master/demo/stress_linear_ani.png" width="150"/><br/>
 </figure>
 
   - 弹性体掉落到四面体上，各向同性与各向异性对比
   
-<figure class="half">
+<figure>
 <img src="https://github.com/pollywaik/cg_note/blob/master/demo/tetrahedron.png" height="300"/><br/><img src="https://github.com/pollywaik/cg_note/blob/master/demo/tetrahedron_ani.png" height="300"/><br/>
 </figure>
 

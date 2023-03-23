@@ -30,8 +30,7 @@
 弹性体掉落到四面体上，各向同性与各向异性对比
 
 <img src="https://github.com/pollywaik/cg_note/blob/master/demo/tetrahedron.png" height="300"/><br/>
-
-<img src="https://github.com/pollywaik/cg_note/blob/master/demo/tetrahedronr_ani.png" height="300"/><br/>
+<img src="https://github.com/pollywaik/cg_note/blob/master/demo/tetrahedron_ani.png" height="300"/><br/>
 
 ### 弹性体-流体耦合
 * 两相流体与不同密度弹性体块耦合
@@ -39,5 +38,6 @@
 <img src="https://github.com/pollywaik/cg_note/blob/master/demo/fluid_elastic.png" height="300"/><br/>
 
 * 模拟巩膜效果
+* 
 <img src="https://github.com/pollywaik/cg_note/blob/master/demo/eyewall.png" height="300"/><br/>
 

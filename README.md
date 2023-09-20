@@ -2,7 +2,7 @@
 
 ### 多相流
 * 不可溶两相流
-
+https://github.com/pollywaik/cg_note/blob/master/demo/mutiphase.mp4
 <img src="https://github.com/pollywaik/cg_note/blob/master/demo/mutiphase.gif" width="300"/><br/>
 
 * 扩散互溶两相流

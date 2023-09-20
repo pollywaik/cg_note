@@ -2,7 +2,6 @@
 
 ### 多相流
 * 不可溶两相流
-https://github.com/pollywaik/cg_note/blob/master/demo/mutiphase.mp4
 <img src="https://github.com/pollywaik/cg_note/blob/master/demo/mutiphase.gif" width="300"/><br/>
 
 * 扩散互溶两相流
@@ -12,7 +11,7 @@ https://github.com/pollywaik/cg_note/blob/master/demo/mutiphase.mp4
 ### 弹性体
 * 弹性体自耦合
 
-<img src="https://github.com/pollywaik/cg_note/blob/master/demo/elastic_coupling.png" width="300"/><br/>
+<img src="https://github.com/pollywaik/cg_note/blob/master/demo/elastic_coupling.gif" width="300"/><br/>
 
 * Neo-hookean模型扭转
 
@@ -34,5 +33,5 @@ https://github.com/pollywaik/cg_note/blob/master/demo/mutiphase.mp4
 
 * 模拟巩膜效果
 
-<img src="https://github.com/pollywaik/cg_note/blob/master/demo/eyewall.png" height="300"/><br/>
+<img src="https://github.com/pollywaik/cg_note/blob/master/demo/eyewall.gif" height="300"/><br/>
 
